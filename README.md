@@ -2,7 +2,7 @@
 
 Mobile View :
 
-![image](https://user-images.githubusercontent.com/55145996/120013230-1f244080-bffe-11eb-97ee-28d95d899bf7.png)
+![sc](https://user-images.githubusercontent.com/55145996/120013889-f781a800-bffe-11eb-8de7-2a65a558e377.jpg)
 
 Desktop View :
 
